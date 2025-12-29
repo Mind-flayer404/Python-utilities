@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ashley Cole",
+        "gender": "Female",
+        "major": "Computer Science",
+        "age": 21,
+        "GPA": 3.8
+    },
+    {
+        "name": "Michael Smith",
+        "gender": "Male",
+        "major": "Mathematics",
+        "age": 22,
+        "GPA": 3.6
+    },
+    {
+        "name": "Jessica Johnson",
+        "gender": "Female",
+        "major": "Physics",
+        "age": 20,
+        "GPA": 3.9
+    },
+    {
+        "name": "David Brown",
+        "gender": "Male",
+        "major": "Chemistry",
+        "age": 23,
+        "GPA": 3.7
+    }
+]

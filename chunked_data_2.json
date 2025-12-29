@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Emily Davis",
+        "gender": "Female",
+        "major": "Biology",
+        "age": 21,
+        "GPA": 3.85
+    },
+    {
+        "name": "Daniel Wilson",
+        "gender": "Male",
+        "major": "Computer Science",
+        "age": 22,
+        "GPA": 3.75
+    },
+    {
+        "name": "Sophia Martinez",
+        "gender": "Female",
+        "major": "Mathematics",
+        "age": 20,
+        "GPA": 3.95
+    }
+]
