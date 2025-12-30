@@ -30,4 +30,5 @@ def split_json_file(input_file, output_prefix, file_count=5):
 if __name__ == "__main__":
     input_file = "large_data.json"                  # Replace with your input JSON file
     output_prefix = "chunked_data"                  # Prefix for output file path
-    split_json_file(input_file, output_prefix, file_count=2)
+    file_count = int(input("Enter the number of files to split into: "))
+    split_json_file(input_file, output_prefix, file_count)
